@@ -6,4 +6,4 @@
 	url = https://github.com/google/snappy
 [submodule "CMake/common"]
 	path = CMake/common
-	url = https://github.com/Eyescale/CMake
+	url = https://github.com/Determtech/DetermEqualizer_CMake
